@@ -1,13 +1,24 @@
 {
-  "question":{
-    "userAvatar": "use_avatar.png",
-    "username": "Kamran",
-    "questionTitle": "How to sort a js array?",
-    "language": "javaScript",
-    "upvotes": 10,
-    "answer": 3,
-    "postdate": "2023-05-30"
-  },
+  "question": [
+    {
+      "userAvatar": "use_avatar.png",
+      "username": "hello",
+      "questionTitle": "How to sort a js array?",
+      "language": "javaScript",
+      "upvotes": 10,
+      "answer": 3,
+      "postdate": "2023-05-30"
+    },
+    {
+      "userAvatar": "use_avatar.png",
+      "username": "Kamran",
+      "questionTitle": "How to sort a js array?",
+      "language": "javaScript",
+      "upvotes": 10,
+      "answer": 3,
+      "postdate": "2023-05-30"
+    }
+  ],
   "answer": [
     {
       "userAvatar": "use_avatar.png",
