@@ -35,6 +35,78 @@
       "image": "https://example.com/images/mens-shirt.jpg",
       "price": 29.99,
       "name": "Saree"
+    },
+    {
+      "id": 5,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "kurti",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
+    },
+    {
+      "id": 6,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "jeans",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
+    },
+    {
+      "id": 7,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Saree",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
+    },
+    {
+      "id": 8,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Saree",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
+    },
+    {
+      "id": 9,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Saree",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
+    },
+    {
+      "id": 10,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Saree",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
+    },
+    {
+      "id": 11,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Saree",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
+    },
+    {
+      "id": 12,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Saree",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
     }
   ]
 }
