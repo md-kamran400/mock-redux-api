@@ -1,42 +1,40 @@
 {
-  "question": [
+  "products": [
     {
-      "userAvatar": "use_avatar.png",
-      "username": "hello",
-      "questionTitle": "How to sort a js array?",
-      "language": "javaScript",
-      "upvotes": 10,
-      "answer": 3,
-      "postdate": "2023-05-30"
+      "id": 1,
+      "gender": "Male",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Jeans",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Jeans"
     },
     {
-      "userAvatar": "use_avatar.png",
-      "username": "Kamran",
-      "questionTitle": "How to sort a js array?",
-      "language": "javaScript",
-      "upvotes": 10,
-      "answer": 3,
-      "postdate": "2023-05-30"
-    }
-  ],
-  "answer": [
-    {
-      "userAvatar": "use_avatar.png",
-      "username": "helloName",
-      "answerText": "to sort an array in js you can use the built in 'sort' ",
-      "postdate": "2023-05-30"
+      "id": 2,
+      "gender": "Male",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Trousers",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Trousers"
     },
     {
-      "userAvatar": "use_avatar.png",
-      "username": "worldName",
-      "answerText": "to sort an array in js you can use the built in 'sort' ",
-      "postdate": "2023-05-30"
+      "id": 3,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Kurti",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Kurti"
     },
     {
-      "userAvatar": "use_avatar.png",
-      "username": "Everuname",
-      "answerText": "to sort an array in js you can use the built in 'sort' ",
-      "postdate": "2023-05-30"
+      "id": 4,
+      "gender": "Female",
+      "description": "A stylish and comfortable men's shirt.",
+      "category": "Saree",
+      "image": "https://example.com/images/mens-shirt.jpg",
+      "price": 29.99,
+      "name": "Saree"
     }
   ]
 }
